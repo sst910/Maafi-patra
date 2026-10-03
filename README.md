@@ -1,18 +1,16 @@
-# Maaf Kiya ❤️
+# Maaf Kiya ❤️ — Romantic Apology Page
 
-A small interactive apology webpage made with plain HTML, CSS, and JavaScript.
+A standalone HTML/CSS/JS interactive page.
 
-## Run locally
+### Included
+- Man holds his ears while doing repeated sorry squats.
+- Changing apology dialogue.
+- Sorry-squat counter.
+- “Maaf Kiya ❤️” interaction.
+- Couple moves together for a hug.
+- Emotional romantic ending with hug and kiss text/action.
+- Responsive mobile layout.
+- No external libraries.
 
-Open `index.html` in a browser.
-
-## GitHub Pages
-
-1. Create a new GitHub repository.
-2. Upload `index.html`, `style.css`, and `script.js`.
-3. Go to **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select your main branch and `/root`.
-6. Save and open the generated GitHub Pages URL.
-
-No frameworks, npm, or external assets are required.
+### GitHub Pages
+Upload the three website files to a repository, then enable **Settings → Pages → Deploy from a branch**.
